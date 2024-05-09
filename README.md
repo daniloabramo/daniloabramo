@@ -4,6 +4,8 @@ Sou um desenvolvedor Full Stack que trabalha como freelancer há dois anos, esto
 
 Agora estou em busca de uma vaga de trabalho em um ambiente dinâmico e desafiador para contribuir na equipe com minhas habilidades. 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniloabramo&layout=compact)
+
 ## Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:daniloabramowicz.com)
