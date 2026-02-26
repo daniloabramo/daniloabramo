@@ -1,6 +1,6 @@
 # 👋 Danilo Abramowicz 
 
-## QA Engineer
+## Automações
 
 - Automatizando testes e construindo pipelines confiáveis. Trabalho com Selenium + Python 
 para reduzir bugs em produção e acelerar releases.
