@@ -33,13 +33,7 @@ manuais em suites automatizadas que salvam horas de trabalho.
 ## Destaque
 [![Acessar documentação de estudos de casos reais](./assets/metodologia.svg)](https://linkly.link/2dfU7) 
 
-[![repositório playwright](./assets/playwright.svg)](https://linkly.link/2dfU8) 
-
-[![repositório postman](./assets/postman.svg)](https://linkly.link/2dfUA) 
-
-[![repositório selenium](./assets/selenium.svg)](https://linkly.link/2dfUD) 
-
-[![repositório suporte com IA](./assets/ia_support.svg)](https://linkly.link/2dfUE) 
+[![repositório playwright](./assets/playwright.svg)](https://linkly.link/2dfU8) [![repositório postman](./assets/postman.svg)](https://linkly.link/2dfUA) [![repositório selenium](./assets/selenium.svg)](https://linkly.link/2dfUD) [![repositório suporte com IA](./assets/ia_support.svg)](https://linkly.link/2dfUE) 
 
 
 
