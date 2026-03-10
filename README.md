@@ -30,6 +30,18 @@ manuais em suites automatizadas que salvam horas de trabalho.
 )](mailto:daniloabramowicz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-abramo/)
 
+## Destaque
+[![Acessar documentação de estudos de casos reais](./assets/metodologia.svg)](https://www.notion.so/Estudo-de-Casos-em-QA-31f885ef204980bcbe14c10f9f886a54?source=copy_link) 
+
+[![repositório playwright](./assets/playwright.svg)](https://github.com/daniloabramo/saucedemo-playwright) [![repositório postman](./assets/postman.svg)](https://github.com/daniloabramo/serverrest-api-test-automation) [![repositório selenium](./assets/selenium.svg)](https://github.com/daniloabramo/saucedemo-test-automation) [![repositório suporte com IA](./assets/ia_support.svg)](https://github.com/daniloabramo/smart-support-mcp) 
+
+
+
+
+
+
+
+
 
 
 
